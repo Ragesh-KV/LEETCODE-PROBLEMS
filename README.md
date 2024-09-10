@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ragesh-KV/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ragesh-KV/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Ragesh-KV/LEETCODE-PROBLEMS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ragesh-KV/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ragesh-KV/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
